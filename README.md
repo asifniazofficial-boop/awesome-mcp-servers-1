@@ -449,6 +449,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[MySQL](https://github.com/designcomputer/mysql_mcp_server)** - MySQL database integration with configurable access controls and schema inspection
 - **[Nanoleaf](https://github.com/srnetadmin/nanoleaf-mcp-server)** - Control Nanoleaf smart lights through MCP - turn on/off, adjust brightness, change colors, set effects, and discover devices
 - **[Netbird](https://github.com/aantti/mcp-netbird)** - List and analyze Netbird network peers, groups, policies, and more.
+- **[NexAIz MCP Registry](https://nexaiz.com/mcp)** - Open-source Model Context Protocol registry indexing 1,200+ MCP servers with 1-click Claude Desktop JSON configurations, star ratings, and tool profiles.
 - **[Nextcloud Calendar](https://github.com/Cheffromspace/mcp-nextcloud-calendar)** - CalDAV Nectcloud calendar integration. Manage calendars, events, attendees, etc.
 - **[Nexus](https://github.com/adawalli/nexus)** - Web search server that integrates Perplexity Sonar models via OpenRouter API for real-time, context-aware search with citations
 - **[Nile Postgres](https://github.com/niledatabase/nile-mcp-server)** - Manage and query databases, tenants, users, auth using LLMs
